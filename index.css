@@ -1,0 +1,47 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #050505;
+  color: #f8f8f8;
+  width: 100%;
+}
+
+.titulo {
+  text-align: center;
+  font-size: 6rem;
+  padding-top: 5rem;
+}
+
+.cronometro {
+  padding: 3% 0;
+}
+
+.relogio {
+  text-align: center;
+  font-size: 5rem;
+  margin-right: 0.7rem;
+}
+
+.cronometro__botoes {
+  display: flex;
+  justify-content: center;
+}
+
+.iniciar, .pausar, .zerar {
+  background:none;
+  border: 1px solid #f8f8f8;
+  color: #f8f8f8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1rem;
+  font-size: 2rem;
+  height: 0.5rem;
+  padding: 2rem 5rem;
+  margin: 4rem 3rem 0 0;
+  text-align: center;
+}
+
+.iniciar:hover, .pausar:hover, .zerar:hover {
+  cursor: pointer;
+  opacity: 50%;
+}
