@@ -4,6 +4,6 @@
 <p>- stopwatch using html, css and pure javascript</p>
   
 ### Features
--[x] Start function
--[x] Pause function
--[x] Reset function
+-[x] Start function<br>
+-[x] Pause function<br>
+-[x] Reset function<br>
