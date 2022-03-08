@@ -27,9 +27,16 @@ document.addEventListener('click', function (evento) {
     clearInterval(timer);
     iniciaCronometro()
   }
+  
   if (element.classList.contains('zerar')) {
     relogio.classList.add('zerado');
     clearInterval(timer)
     relogio.innerHTML = '00:00:00';
     segundos = 0;
   }
+  
+  if (element.classList.contains('pausar')) {
+    relogio.classList.add('pausado')
+    clearInterval(timer)
+  }
+})
