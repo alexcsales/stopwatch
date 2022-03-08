@@ -15,9 +15,12 @@
   <p>Before starting, you will need to have the following tools installed: <a href='https://git-scm.com/downloads'>Git<a>. Also it's nice to have an editor to work with code like <a href='https://code.visualstudio.com/download'>VScode<a/></p>
     
  <h3>Instructions</h3>
+    
     ```bash
-    <p># Clone this repository</p>
-    <p>$ git clone https://github.com/alexcsales/stopwatch</p>
-    <p># Run index.html</p>
-    <p>$ In the browser, type Ctrl + O and select the file</p>
+    
+    <p># Clone this repository<br>
+    $ git clone https://github.com/alexcsales/stopwatch</p>
+    <p># Run file<br>
+    $ In the browser, type Ctrl + O and open the index.html</p>
+    
     ```
