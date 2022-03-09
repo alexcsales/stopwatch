@@ -7,6 +7,7 @@
 - [x] Start function<br>
 - [x] Stop function<br>
 - [x] Reset function<br>
+- [x] Responsive
 
 <h1 align="center">
   <img height="20%" width="60%" alt="GIF-Project"  src="Stopwatch2.gif"/>
