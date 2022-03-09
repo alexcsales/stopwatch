@@ -7,7 +7,7 @@ body {
 
 .titulo {
   text-align: center;
-  font-size: 6rem;
+  font-size: 4rem;
   padding-top: 5rem;
 }
 
@@ -17,7 +17,7 @@ body {
 
 .relogio {
   text-align: center;
-  font-size: 5rem;
+  font-size: 3rem;
   margin-right: 0.7rem;
 }
 
@@ -34,10 +34,10 @@ body {
   align-items: center;
   justify-content: center;
   width: 1rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
   height: 0.5rem;
-  padding: 2rem 5rem;
-  margin: 4rem 3rem 0 0;
+  padding: 1.5rem 3.5rem;
+  margin: 2rem 1rem 0 0;
   text-align: center;
 }
 
