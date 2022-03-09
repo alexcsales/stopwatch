@@ -9,7 +9,7 @@
 - [x] Reset function<br>
 
 <h1 align="center">
-  <img height="20%" width="60%" alt="GIF-Project"  src="Stopwatch.gif"/>
+  <img height="20%" width="60%" alt="GIF-Project"  src="Stopwatch2.gif"/>
 <h1/>
   <hr>
   
